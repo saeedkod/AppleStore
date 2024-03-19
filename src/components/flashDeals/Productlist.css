@@ -1,0 +1,57 @@
+.flex{
+display: flex;
+margin: 5%;
+margin-left: 5%;
+}
+@media (max-width: 786px) {
+    .flex{
+        display: block;
+        margin: 5%;
+        margin-left: 5%;
+        }
+}
+.text-1{
+    margin-left: 5%;
+}
+.all-1{
+    background-color: rgb(255, 250, 250);
+    border: 2px outset white;
+    margin: 2%;
+   border-radius: 3%;
+}
+
+.bg{
+background-color: rgb(240, 240, 240);
+
+}
+
+.bt{
+    display: flex;  
+    margin-bottom: 5%;
+    z-index: 1;
+}
+
+.plus{
+    margin-left: 400%;
+    width: 150%;
+    height: 100%; 
+    border: 2px solid rgb(190, 187, 187);
+    color: red;
+    border-radius: 15%;
+    font-weight: bold;
+}
+.bt-1{
+    font-size: 30px;
+    z-index: 1;
+}
+
+.lc{
+    margin-left: 78%;
+    margin-bottom: 5%;
+}
+.fg{
+    margin-left: 5%;
+}
+.hj{
+    margin-left: 5%;
+}

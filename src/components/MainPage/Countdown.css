@@ -1,0 +1,28 @@
+
+.pa{
+    background-color: red;
+    margin: 10%;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+}
+.ch{
+    margin: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.eleman{
+    font-weight: bold;
+    color :white;
+    display: block;
+    text-align: center;
+}
+.cd{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 15%;
+}
+.fd{
+    font-size: 30px;
+    margin: 5%;
+    color: red;
+}
